@@ -1,2 +1,2 @@
 # Car-Rental-System-in-C-
-(Working on the idea)-I have practiced all the core concepts of C++ (+) OOP from variable to the file handling. This work of this project is to "Provide The Service Of Rental Car Business", Where it include the functionalities of -add cars, Rent a car, View all the available cars. This system will be managed by only the admin.
+(Working on the idea) – I have practiced all core concepts of C++ and OOP, from variables to file handling. This project aims to provide a rental car service, including features to add cars, rent a car, and view available cars. The system is entirely admin-controlled for managing the complete rental process.
